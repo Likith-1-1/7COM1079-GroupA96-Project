@@ -1,0 +1,40 @@
+
+Default Pearson correlation:
+
+	Pearson's product-moment correlation
+
+data:  df$MP and df$PTS
+t = 46.644, df = 677, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.8542009 0.8900687
+sample estimates:
+      cor 
+0.8733132 
+
+
+Explicit Pearson correlation:
+
+	Pearson's product-moment correlation
+
+data:  df$MP and df$PTS
+t = 46.644, df = 677, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.8542009 0.8900687
+sample estimates:
+      cor 
+0.8733132 
+
+
+Spearman correlation:
+
+	Spearman's rank correlation rho
+
+data:  df$MP and df$PTS
+S = 3794618, p-value < 2.2e-16
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.9272704 
+
