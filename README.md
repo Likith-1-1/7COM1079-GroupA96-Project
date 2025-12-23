@@ -15,7 +15,7 @@ Both tests show a strong positive correlation between MP and PTS.
 - Scripts: Cleaning, histograms, scatterplot and correlation analysis  
 
 > Group Members
-Anantha Lokesh ID: 24168603, Yeruva Likith ID: 24176710, Rohith Soma ID: 24175446, Seelam Sai Teja ID: 24152818, Borra Rohith ID: 24122677
+Anantha Lokesh Vemana ID: 24168603, Yeruva Likith ID: 24176710, Rohith Soma ID: 24175446, Seelam Sai Teja ID: 24152818, Borra Rohith ID: 24122677
 
 > Conclusion
 Players who play more minutes consistently score more points. The relationship between MP and PTS is strong and statistically significant.
